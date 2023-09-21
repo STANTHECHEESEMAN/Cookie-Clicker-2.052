@@ -1,3 +1,4 @@
+#THIS HAS BEEN MOVED TO MY WEBSITE
 # cookie-clicker-v2.052
 
 
