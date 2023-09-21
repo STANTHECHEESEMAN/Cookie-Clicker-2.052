@@ -4,6 +4,9 @@
 
 # IF WANTED ENOUGH I WILL RETURN THE DOWNLOAD METHOD
 
+# EMAIL ME IF YOU WANT ME TO RETURN THE DOWNLOAD METHOD 
+
+# alexdegler17@gmail.com
 
 <img src="img/perfectCookie.png" width="128">
 
