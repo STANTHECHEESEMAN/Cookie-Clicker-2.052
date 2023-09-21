@@ -15,3 +15,5 @@ Mods are at https://sushi8756.github.io/Cookie-Clicker-Guide/
 Original unmodified file is at https://github.com/probablyopta/cookie-clicker-v2.052/tree/main
 
 Original game at http://orteil.dashnet.org/cookieclicker/
+
+save editor if you need it https://coderpatsy.bitbucket.io/cookies/editor.html
