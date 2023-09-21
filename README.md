@@ -2,16 +2,10 @@
 
 # https://stanthecheeseman.github.io/cheesy-website/
 
-# cookie-clicker-v2.052
+# IF WANTED ENOUGH I WILL RETURN THE DOWNLOAD METHOD
 
 
 <img src="img/perfectCookie.png" width="128">
-
-Click on "/cookie-clicker-v2 (2).zip". <br>
-Then click "Raw" and it should download the folder in a zip file. <br>
-Once you have the file, open "index.html". <br>
-
-
 
 # mods and other links
 Mods are at https://sushi8756.github.io/Cookie-Clicker-Guide/
