@@ -1,6 +1,6 @@
 # THIS HAS BEEN MOVED TO MY WEBSITE
 
-# https://github.com/STANTHECHEESEMAN/cheesy-website
+# https://stanthecheeseman.github.io/cheesy-website/
 
 # cookie-clicker-v2.052
 
